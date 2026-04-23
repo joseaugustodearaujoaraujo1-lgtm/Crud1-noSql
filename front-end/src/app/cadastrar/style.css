@@ -1,0 +1,30 @@
+.BtnBD {
+    width: 40vmax;
+    height: 6vmin;
+    text-decoration: none;
+    font-size: 3vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+form {
+    backdrop-filter: blur(10px);
+    padding: 2vh;
+    border-radius: 1vh;
+    box-shadow: 0.2vh 0vh 3vh 0.5vh black;
+    background-color: rgba(172, 172, 243, 0.131);
+}
+
+.BtnEnviar{
+    width: 40vmax;
+    height: 6vmin;
+    text-decoration: none;
+    font-size: 3vh;
+}
+
+.Link{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,25 @@
+{
+  "name": "front-end",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.6.0",
+    "@shadergradient/react": "^2.4.20",
+    "axios": "^1.15.1",
+    "camera-controls": "^3.1.2",
+    "next": "16.2.4",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "three": "^0.184.0",
+    "three-stdlib": "^2.36.1"
+  },
+  "devDependencies": {
+    "@types/three": "^0.184.0",
+    "babel-plugin-react-compiler": "1.0.0"
+  }
+}
